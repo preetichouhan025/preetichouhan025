@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**preetichouhan025/preetichouhan025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
-## Hi, I'm Preeti CHouhan
+## Hi, I'm Preeti Chouhan
 
 - 🔭 I’m currently working on: NLP & LLMs - enhance & innovate text data applications.
 - 🌱 I’m currently learning to - Slow down & live ; also, Leetcode 👀
